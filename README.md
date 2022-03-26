@@ -6,6 +6,22 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 
 
+<!-- Skills -->
+
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=pandas&logoColor=white&color=4AB197)
+...
+
+<details>
+<summary>More Skills</summary>
+
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+...
+</details>
 
 <!--
 **OlamideMustapha/OlamideMustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
