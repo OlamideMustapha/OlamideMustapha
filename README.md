@@ -18,7 +18,7 @@ I'm Akinkunmi Mustapha, a Data Analyst
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge
+
 
 ### Libraries / Tools
 ![Pandas Badge](https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)
