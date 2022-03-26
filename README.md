@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Akinkunmi Mustapha and I am a Data Analyst
 
 <!--
 **OlamideMustapha/OlamideMustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
