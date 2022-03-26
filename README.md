@@ -20,8 +20,11 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 <!-- Skills -->
 ### ⌨️ Programming Lanugages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ***
