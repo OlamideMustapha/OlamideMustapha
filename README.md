@@ -1,4 +1,4 @@
-<!-- [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev) -->
+[![Akin's GitHub Banner](assets/uriel-sc-11KDtiUWRq4-unsplash.jpg.png)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 
 ### Hi there 👋,
 
