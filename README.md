@@ -2,25 +2,25 @@
 
 ### Hi there 👋,
 
-I'm Akinkunmi Mustapha, a Data Analyst
+I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am a huge fan of artificial intelligence and graph networks. In addtion, I am also a selt-taught frontend developer.
 
 
 <!-- Social Badges -->
-
+### 📫 How to reach me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akin__m)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinkunmimustapha1@gmail.com)
 
 
 <!-- Skills -->
-### Programming Lanugages
+### ⌨️ Programming Lanugages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### Libraries / Tools
+### 🛠 Libraries / Tools
 ![Pandas Badge](https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy Badge](https://img.shields.io/badge/Numpy-276DC3?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-276DC3?style=for-the-badge&logo=tableau&logoColor=white)
@@ -28,6 +28,14 @@ I'm Akinkunmi Mustapha, a Data Analyst
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j Badge](https://img.shields.io/badge/Neo4j-4EA94B?style=for-the-badge&logo=neo4j&logoColor=white&color=blue)
 
+### 😄 Pronouns: He/Him
+
+### 🔭 I’m currently working on
+- Sentiment Analysis using Graph Neural Networks
+
+
+### ⚡ Fun fact
+- I love to play the guitar🎸
 
 ### 📈 GitHub Stats
 
