@@ -29,6 +29,8 @@ I'm Akinkunmi Mustapha, a Data Analyst
 ![Neo4j Badge](https://img.shields.io/badge/Neo4j-4EA94B?style=for-the-badge&logo=neo4j&logoColor=white&color=blue)
 
 
+### 📈 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=OlamideMustapha&show_icons=true&theme=white)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 &nbsp;
