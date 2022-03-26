@@ -1,8 +1,8 @@
-[![Akin's GitHub Banner](assets/uriel-sc-11KDtiUWRq4-unsplash.jpg.png)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
-
-### Hi there 👋,
+[![Akin's GitHub Banner](assets/GitHubHeader.png)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 
 I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am a huge fan of artificial intelligence and graph networks. In addtion, I am also a selt-taught frontend developer.
+
+***
 
 
 <!-- Social Badges -->
@@ -11,8 +11,11 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinkunmimustapha1@gmail.com)
 
+***
 
 ### 😄 Pronouns: He/Him
+
+***
 
 <!-- Skills -->
 ### ⌨️ Programming Lanugages
@@ -21,6 +24,7 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 ![](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+***
 
 ### 🛠 Libraries / Tools
 ![Pandas Badge](https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,6 +33,8 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j Badge](https://img.shields.io/badge/Neo4j-4EA94B?style=for-the-badge&logo=neo4j&logoColor=white&color=blue)
+
+***
 
 &nbsp;
 &nbsp;
@@ -39,11 +45,14 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 ### 🔭 I’m currently working on
 - Sentiment Analysis using Graph Neural Networks
 
+***
+
 ### 🌱 I’m currently learning
 - About graphs
 - Graph construction
 - Graph Representation Learning
 
+***
 
 ### ⚡ Fun fact
 - I love to play the guitar🎸
@@ -54,10 +63,13 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 &nbsp;
 &nbsp;
 
+***
+
 ### 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=OlamideMustapha&show_icons=true&theme=white)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
+***
 
 ### Language Usage
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamideMustapha&layout=compact)
