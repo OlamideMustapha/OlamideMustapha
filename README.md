@@ -36,6 +36,19 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j Badge](https://img.shields.io/badge/Neo4j-4EA94B?style=for-the-badge&logo=neo4j&logoColor=white&color=blue)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+<br>
+
+<details>
+  <summary><h2>📄 Certifications:-</h2></summary>
+  <a href='https://freecodecamp.org/certification/kunmi/javascript-algorithms-and-data-structures'>Javascripty Algorithms and Data Structures</a>
+  <br>
+  <a href='https://graphacademy.neo4j.com/u/a8e74ff6-2081-4095-a80e-69ed59a5220c/neo4j-fundamentals/#.YkGijfEuZUc.link'>Neo4j Fundamentals</a>
+  <br>
+  <a href='https://graphacademy.neo4j.com/u/a8e74ff6-2081-4095-a80e-69ed59a5220c/cypher-fundamentals/#.YkGiuaUSH8o.link'>Cypher Fundamentals</a>
+</details>
+
 
 &nbsp;
 &nbsp;
