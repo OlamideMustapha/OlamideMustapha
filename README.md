@@ -44,7 +44,7 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 &nbsp;
 
 ## 🔭 I’m currently working on:-
-- Applied research / Sentiment Analysis using Graph Neural Networks
+- `Applied research / Sentiment Analysis using Graph Neural Networks`
 
 
 ## 🌱 I’m currently learning:-
