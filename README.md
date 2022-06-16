@@ -1,4 +1,10 @@
-[![Akin's GitHub Banner](assets/GitHubHeader_blue.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
+<!-- [![Akin's GitHub Banner](assets/GitHubHeader_blue.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/) -->
+
+<div>
+  <center>
+    <img src="./assets/GitHubHeader_blue.gif"> </img>
+  </center>
+</div>
 
 I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am a huge fan of artificial intelligence and graph networks. In addtion, I am also a selt-taught frontend developer.
 
