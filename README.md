@@ -2,7 +2,11 @@
 
 I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am a huge fan of artificial intelligence and graph networks. In addtion, I am also a selt-taught frontend developer.
 
-<img src="./assets/GitHubHeader.gif" width="100%" height="350" />
+<center>
+  <img src="./assets/GitHubHeader.gif" width="100%" height="4%"> </img>
+</center>
+
+
 <!-- Social Badges -->
 ## 📫 How to reach me:-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akin__m)
