@@ -1,4 +1,4 @@
-[![Akin's GitHub Banner](assets/GitHubHeader.001.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
+[![Akin's GitHub Banner](assets/GitHubHeader_blue.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 
 I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am a huge fan of artificial intelligence and graph networks. In addtion, I am also a selt-taught frontend developer.
 
@@ -8,22 +8,15 @@ I'm Akinkunmi Mustapha, a Data Analyst, currently based in Dublin, Ireland. I am
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akin__m)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinkunmimustapha1@gmail.com)
-
-## 😄 Pronouns:-
-`He/Him`
-
 <br>
 
 <!-- Skills -->
 ## Skills
 #### ⌨️ Programming Lanugages:-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</br>
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-</br>
-![](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
-</br>
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### Markup Lanugages:-
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
