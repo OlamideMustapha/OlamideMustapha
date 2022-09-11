@@ -14,9 +14,6 @@
   </center>
 </div> -->
 
-&nbsp;
-&nbsp;
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4050&pause=1000&color=3CA5AA&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Welcome+to+my+page.+I+am+a+Database+developer+at+Trane+Technologies%2C;with+a+degree+in+data+analytics.+Love+everything+tech%2C;+most+especially+artificial+intelligence+and+graph+networks.)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
@@ -26,7 +23,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinkunmimustapha1@gmail.com)
 <br>
 
-&nbsp;
 <!-- Skills -->
 ### <b>Tech Stack</b>
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
