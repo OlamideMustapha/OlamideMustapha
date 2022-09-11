@@ -1,3 +1,10 @@
+<!--
+  Last Updated            Changes Made
+  11-09-2022              Reduced header to 3
+                          Change logo colors to 323330
+                          Removed some icons from the headers
+-->
+
 <!-- [![Akin's GitHub Banner](assets/GitHubHeader_blue.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/) -->
 
 <!-- <div>
