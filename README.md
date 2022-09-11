@@ -3,6 +3,7 @@
   11-09-2022              Reduced header to 3
                           Change logo colors to 323330
                           Removed some icons from the headers
+                          Added about heading, change position of how to reach me section
 -->
 
 <!-- [![Akin's GitHub Banner](assets/GitHubHeader_blue.jpeg)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/) -->
@@ -13,17 +14,19 @@
   </center>
 </div> -->
 
-
-Wellcome to my page. I am a Database developer at Trane Technologies, with a degree in data analytics. Love everything tech, most especially artificial intelligence and graph networks.
-
-&nbsp;
-
 <!-- Social Badges -->
 ### <b>How to reach me</b>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akin__m)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinkunmi-mustapha-b866611a6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinkunmimustapha1@gmail.com)
 <br>
+
+&nbsp;
+
+### <b> About </b>
+Wellcome to my page. I am a Database developer at Trane Technologies, with a degree in data analytics. Love everything tech, most especially artificial intelligence and graph networks.
+
+&nbsp;
 
 <!-- Skills -->
 ### <b>Tech Stack</b>
