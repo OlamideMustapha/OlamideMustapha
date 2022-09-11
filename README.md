@@ -14,6 +14,11 @@
   </center>
 </div> -->
 
+&nbsp;
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4050&pause=1000&color=3CA5AA&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Welcome+to+my+page.+I+am+a+Database+developer+at+Trane+Technologies%2C;with+a+degree+in+data+analytics.+Love+everything+tech%2C;+most+especially+artificial+intelligence+and+graph+networks.)](https://git.io/typing-svg)
+
 <!-- Social Badges -->
 ### <b>How to reach me</b>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akin__m)
@@ -22,12 +27,6 @@
 <br>
 
 &nbsp;
-
-### <b> About </b>
-Wellcome to my page. I am a Database developer at Trane Technologies, with a degree in data analytics. Love everything tech, most especially artificial intelligence and graph networks.
-
-&nbsp;
-
 <!-- Skills -->
 ### <b>Tech Stack</b>
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +51,6 @@ Wellcome to my page. I am a Database developer at Trane Technologies, with a deg
 <a href='https://graphacademy.neo4j.com/u/a8e74ff6-2081-4095-a80e-69ed59a5220c/neo4j-fundamentals/#.YkGijfEuZUc.link'>Neo4j Fundamentals</a>
 <br>
 <a href='https://graphacademy.neo4j.com/u/a8e74ff6-2081-4095-a80e-69ed59a5220c/cypher-fundamentals/#.YkGiuaUSH8o.link'>Cypher Fundamentals</a>
-
 
 &nbsp;
 &nbsp;
@@ -81,13 +79,17 @@ Wellcome to my page. I am a Database developer at Trane Technologies, with a deg
 &nbsp;
 
 
-### <b>Github Contributions</b>
+<!-- ### <b>Github Contributions</b>
 ![](https://github-readme-stats.vercel.app/api?username=OlamideMustapha&show_icons=true&theme=white)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
-### <b>Language Usage</b>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamideMustapha&layout=compact)
-</detail>
+
+### <b>Streak</b>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlamideMustapha&theme=windows-dark)](https://git.io/streak-stats)
+
+
+<!-- ### <b>Language Usage</b>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamideMustapha&layout=compact) -->
 
 <!--
 **OlamideMustapha/OlamideMustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
