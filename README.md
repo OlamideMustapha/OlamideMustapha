@@ -14,7 +14,7 @@
   </center>
 </div> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4050&pause=1000&color=3CA5AA&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Welcome+to+my+page.+I+am+a+Database+developer+at+Trane+Technologies%2C;with+a+degree+in+data+analytics.+Love+everything+tech%2C;+most+especially+artificial+intelligence+and+graph+networks.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4050&pause=1000&color=3CA5AA&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Welcome+to+my+page.+I+am+a+Database+developer%2C;with+a+degree+in+data+analytics.+Love+everything+tech%2C;+most+especially+artificial+intelligence+and+graph+networks.)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 ### <b>How to reach me</b>
